@@ -1,0 +1,30 @@
+
+em {
+    font-size: large;
+    font-style: arial;
+    font-weight: bold;
+    text-decoration: underline;
+    color: red;
+    text-decoration-style: dashed;
+    background-color: lightblue;
+
+}
+
+.myownstyle1{
+    border: 4px blueviolet dashed;
+}
+
+.myownstyle2{
+    font-style:comic;
+    color:green;
+    font-weight:italic;
+}
+
+body {
+    background-image:url('')
+}
+
+.three-d-text{
+    text-shadow:5px 10px 5px grey;
+
+}
